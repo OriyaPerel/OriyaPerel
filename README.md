@@ -17,13 +17,29 @@
 ---
 
 ## 🔧 Languages and Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white&style=flat)
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat)
+<p>
+  <img alt="Python" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  &nbsp;Python&nbsp; | &nbsp;
+  
+  <img alt="JavaScript" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  &nbsp;JavaScript&nbsp; | &nbsp;
+  
+  <img alt="Java" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  &nbsp;Java&nbsp; | &nbsp;
+  
+  <img alt="C" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  &nbsp;C&nbsp; | &nbsp;
+  
+  <img alt="C++" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  &nbsp;C++&nbsp; | &nbsp;
+  
+  <img alt="Git" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  &nbsp;Git&nbsp; | &nbsp;
+  
+  <img alt="React" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  &nbsp;React
+</p>
+
 
 ---
 
