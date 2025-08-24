@@ -45,11 +45,12 @@
 
 ## 🔗 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/in/oriya-perel/" target="_blank">
+  <a href="https://www.linkedin.com/in/oriya-perel-a36962278/" target="_blank">
     <img alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:oriyaperel18@gmail.com">
     <img alt="Gmail" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />
   </a>
 </p>
+
