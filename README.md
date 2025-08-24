@@ -1,8 +1,8 @@
-<h1 align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi+there+👋,+Welcome+to+Oriya's+GitHub"
-    alt="Typing SVG" />
-</h1>
+<p align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi+there+👋,+Welcome+to+Oriya's+GitHub)
+  
+</p>
 
 ---
 
