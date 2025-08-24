@@ -43,6 +43,13 @@
 
 ---
 
-## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oriya-perel/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+## 🔗 Connect with Me
+<p>
+  <a href="https://www.linkedin.com/in/oriya-perel/" target="_blank">
+    <img alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img alt="Gmail" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />
+  </a>
+</p>
