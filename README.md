@@ -1,16 +1,16 @@
-<h1 align="left">
+<h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&width=520&lines=Hi+there+%F0%9F%91%8B,+I'm+Oriya"
-    alt="Hi there 👋, I'm Oriya (typing animation)" />
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi+there+👋,+Welcome+to+Oriya's+GitHub"
+    alt="Typing SVG" />
 </h1>
 
 ---
 
 ## 👩‍💻 About Me
-- 🎓 Third-year Computer Science student at Ariel University.  
-- 🔐 Passionate about **algorithms, cryptography, and software engineering**.  
-- 💻 Full-stack development (React + Firebase + Supabase) and system programming (C/C++/Java/Python).  
-- 🚀 Always eager to learn, collaborate, and create impactful projects.  
+🎓 Third-year Computer Science student at Ariel University.  
+🔐 Passionate about **algorithms, cryptography, and software engineering**.  
+ 💻 Full-stack development (React + Firebase + Supabase) and system programming (C/C++/Java/Python).  
+ 🚀 Always eager to learn, collaborate, and create impactful projects.  
 
 ---
 
