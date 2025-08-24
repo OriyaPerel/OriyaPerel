@@ -9,7 +9,7 @@
 ---
 
 ## 👩‍💻 About Me
-🎓 Third-year Computer Science student at Ariel University.  
+🎓 Third-year **Computer Science student**.  
 🔐 Passionate about **algorithms, cryptography, and software engineering**.  
  💻 Full-stack development (React + Firebase + Supabase) and system programming (C/C++/Java/Python).  
  🚀 Always eager to learn, collaborate, and create impactful projects.  
