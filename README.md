@@ -1,5 +1,7 @@
 <h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&width=435&lines=Hi+there+👋,+I'm+Oriya " alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&width=520&lines=Hi+there+%F0%9F%91%8B,+I'm+Oriya"
+    alt="Hi there 👋, I'm Oriya (typing animation)" />
 </h1>
 
 ---
